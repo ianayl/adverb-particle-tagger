@@ -28,6 +28,10 @@ for i in range(5,14):
     # Generating result of applying eigenvectors onto vectors in the testing split
     sigma_k = np.array([ ev[1] for ev in custom_PCA(training)])
     model_res = (sigma_k.T @ sigma_k @ test[3])
+    # pca = PCA(whiten=False).fit(training)
+    # eigenvectors = pca.components_
+    # training_pca = pca.transform(training)
+    # test_pca = pca.transform(test)
     print(f"Loop increment {i}:")
     print(f"original = {test[3]}")
     print(f"result   = {model_res}")
