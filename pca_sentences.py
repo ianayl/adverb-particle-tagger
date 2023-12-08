@@ -36,5 +36,5 @@ def get_centered_vectors_from_file(filename: str, size: int) -> List[List]:
     return [ v for s in tmp for v in get_centered_vectors(s, size) ]
 
 def perform_PCA(vectors: List[List]):
-    pca_res = PCA(n_components=9, whiten=False).fit(vectors)
+    pca_res = PCA(n_components=7, whiten=False).fit(vectors)
     return pca_res.components_
