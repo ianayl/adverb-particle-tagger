@@ -100,12 +100,12 @@ for i, label in enumerate(cluster_labels):
 # Print the first 10 elements in each cluster for both tags and words
 for cluster_id, (sentences_tags, sentences_words) in enumerate(zip(cluster_sentences_tags, cluster_sentences_words)):
     print(f"Cluster {cluster_id} - {len(sentences_tags)} sentences (Tags):")
-    for sentence in sentences_tags[100:110]:
+    for sentence in sentences_tags[0:10]:
         print(sentence)
     print("\n")
 
     print(f"Cluster {cluster_id} - {len(sentences_words)} sentences (Words):")
-    for sentence in sentences_words[100:110]:
+    for sentence in sentences_words[0:10]:
         print(sentence)
     print("\n")
 
@@ -115,15 +115,15 @@ bow_matrix_tsne = tsne.fit_transform(euclideanDistances)
 
 # Visualize the clusters using scatter plot
 plt.scatter(bow_matrix_tsne[:, 0], bow_matrix_tsne[:, 1], c=cluster_labels, cmap='viridis')
-plt.title('t-SNE Visualization of Clusters')
-plt.xlabel('t-SNE Component 1')
-plt.ylabel('t-SNE Component 2')
+plt.title('t-SNE Visualization of Clusters W/ Bag of Words')
+plt.xticks([])
+plt.yticks([])
 plt.colorbar(label='Cluster')
 plt.savefig("darwin.png")
 plt.show()    
 
 # # Reduce the dimensionality using PCA
-# pca = PCA(n_components=2)  # You can choose 2 or 3 components for 2D or 3D visualization
+# pca = PCA(n_components=7)  # You can choose 2 or 3 components for 2D or 3D visualization
 # bow_matrix_pca = pca.fit_transform(bow_matrix_dense)
 
 # # Visualize the clusters using scatter plot
