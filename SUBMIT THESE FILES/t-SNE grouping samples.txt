@@ -1,0 +1,180 @@
+Cluster 0 - 1611 sentences (Tags):
+['IN', 'RB', 'VB', 'RP', 'NN', 'NNS', 'TO']
+['CC', 'VB', 'RP', 'DT', 'NNS', 'NN', 'UH']
+['NN', 'TO', 'VB', 'RP', 'DT', 'JJ', 'NNS']
+['VB', 'IN', 'VBG', 'RP', 'DT', 'NNS', 'VBZ']
+['JJ', 'TO', 'VB', 'RP', 'RB', 'VBG', 'DT']
+['DT', 'MD', 'VB', 'RP', 'DT', 'NNS', 'IN']
+['NNP', 'TO', 'VB', 'RP', 'IN', 'DT', 'NN']
+['VBP', 'NNP', 'VB', 'RP', 'IN', 'DT', 'NN']
+['VB', 'IN', 'VBG', 'RP', 'JJ', 'NNS', ',']
+['TO', 'VB', 'NN', 'RP', 'RB', 'IN', 'DT']
+
+
+Cluster 0 - 1611 sentences (Words):
+['than', 'just', 'send', 'out', 'marketing', 'people', 'to']
+['Or', 'open', 'up', 'an', 'electronics', 'magazine', 'UH']
+['to', 'set', 'up', 'a', 'financial', 'services', 'outlet']
+['whether', 'turning', 'over', 'the', 'filings', 'is', 'self-incrimination.']
+['to', 'get', 'by', 'just', 'running', 'a', 'business.']
+['Some', 'will', 'turn', 'off', 'the', 'lights', 'so']
+['to', 'turn', 'over', 'to', 'the', 'court', 'all']
+['Dan', 'find', 'out', 'about', 'this', 'information.', 'UH']
+['in', 'driving', 'out', 'foreign', 'forces,', 'affirming', 'the']
+['to', 'pull', 'Asia', 'together', 'not', 'as', 'a']
+
+
+Cluster 1 - 394 sentences (Tags):
+['VB', 'PRP$', 'NNS', 'RP', 'UH', 'UH', 'UH']
+['WP', 'VBZ', 'VBG', 'RP', 'RB', 'RB', 'VBZ']
+['NNP', 'WDT', 'VBD', 'RP', 'DT', 'NNP', 'NNP']
+['VB', 'TO', 'VB', 'RP', 'VBG', 'TO', 'VB']
+['NNP', 'VBD', 'PRP', 'RP', 'IN', 'NNP', 'NNP']
+['VB', 'RP', '.', 'UH', 'UH', 'UH', 'UH']
+['NNP', 'NNP', 'VBD', 'RP', 'NNP', 'CC', 'NNP']
+['VB', 'RP', 'UH', 'UH', 'UH', 'UH', 'UH']
+['VBD', 'VBN', 'VBN', 'RP', 'CC', 'VBN', '.']
+['NNP', 'NNP', 'VBD', 'RP', 'TO', 'VB', 'NNP']
+
+
+Cluster 1 - 394 sentences (Words):
+['work', 'his', 'ass', 'off', 'UH', 'UH', 'UH']
+['What', 'is', 'going', 'on', 'right', 'now', 'is']
+['in', 'the', 'Great', 'Depression.', 'UH', 'UH', 'UH']
+['plan', 'to', 'set', 'about', 'preparing', 'to', 'construct']
+['Elijah', 'led', 'them', 'down', 'to', 'Kishon', 'Creek']
+['Come', 'on.', 'UH', 'UH', 'UH', 'UH', 'UH']
+['Mr.', 'Lang', 'took', 'on', 'Ms.', 'and', 'Sassy']
+['Grow', 'up', 'UH', 'UH', 'UH', 'UH', 'UH']
+['were', 'found', 'tied', 'together', 'but', 'unguarded.', 'UH']
+['King', 'David', 'came', 'in', 'to', 'see', 'Amnon.']
+
+
+Cluster 2 - 1067 sentences (Tags):
+['VB', 'DT', 'NN', 'RP', '.', 'UH', 'UH']
+['NN', 'TO', 'VB', 'RP', '.', 'UH', 'UH']
+['NN', 'VBD', 'VBN', 'RP', '.', 'UH', 'UH']
+[',', 'NNS', 'VBD', 'RP', '.', 'UH', 'UH']
+[',', 'PRP', 'VBP', 'RP', '.', 'UH', 'UH']
+['PRP', 'VBD', 'RP', 'PRP$', 'NN', 'CC', 'UH']
+['VB', 'RP', 'RP', 'RB', 'IN', 'UH', 'UH']
+['NN', 'TO', 'VB', 'RP', '.', 'UH', 'UH']
+['VBZ', 'DT', 'NN', 'RP', '.', 'UH', 'UH']
+['NN', ',', 'VBG', 'RP', '.', 'UH', 'UH']
+
+
+Cluster 2 - 1067 sentences (Words):
+['clean', 'the', 'place', 'up.', 'UH', 'UH', 'UH']
+['to', 'settle', 'in.', 'UH', 'UH', 'UH', 'UH']
+['ship', 'was', 'tied', 'up.', 'UH', 'UH', 'UH']
+['up.', 'UH', 'UH', 'UH', 'UH', 'UH', 'UH']
+['they', 'give', 'up.', 'UH', 'UH', 'UH', 'UH']
+['He', 'picked', 'up', 'his', 'mat', 'and', 'UH']
+['Go', 'on', 'up', 'ahead', 'of', 'UH', 'UH']
+['fight', 'back.', 'UH', 'UH', 'UH', 'UH', 'UH']
+['Is', 'the', 'trouble', 'over', '?', 'UH', 'UH']
+['UH', 'UH', 'UH', 'UH', 'UH', 'UH', 'UH']
+
+
+Cluster 3 - 1137 sentences (Tags):
+['NN', 'CC', 'VB', 'RP', 'PRP$', 'JJ', 'NN']
+['NN', 'NN', 'VBD', 'RP', 'IN', 'DT', 'NN']
+['VBG', 'DT', 'NN', 'RP', 'IN', 'DT', 'NN']
+['JJ', 'NN', 'VBD', 'RP', 'PRP$', 'NN', 'IN']
+['NN', 'TO', 'VB', 'RP', 'JJ', 'NN', 'CC']
+['MD', 'VB', 'VBN', 'RP', 'DT', 'NN', 'NN']
+['NN', ',', 'VBZ', 'RP', 'IN', 'DT', 'NN']
+['NN', 'NNS', 'VBG', 'RP', ',', 'DT', 'NN']
+['NN', 'IN', 'NN', 'RP', "''", '.', 'UH']
+['NN', 'VBD', 'VBG', 'RP', 'IN', 'DT', 'NN']
+
+
+Cluster 3 - 1137 sentences (Words):
+['justice', 'and', 'bring', 'out', 'their', 'full', 'flavour.']
+['destruction', 'battle', 'went', 'on', 'for', 'a', 'day']
+['some', 'time', 'off', 'from', 'the', 'paper.', 'UH']
+['fifth', 'angel', 'poured', 'out', 'his', 'bowl', 'on']
+['pledge', 'to', 'clean', 'up', 'local', 'administration', 'and']
+['carried', 'out', 'the', 'suicide', 'attack', 'against', 'the']
+['points', 'out', 'that', 'the', 'knowledge-based', 'economy', 'basically']
+['on,', 'the', 'reality', 'is', 'that', 'Mr.', 'Kostunica']
+['up', '".', 'UH', 'UH', 'UH', 'UH', 'UH']
+['traffic', 'was', 'going', 'in', 'for', 'the', 'game']
+
+
+Cluster 4 - 1829 sentences (Tags):
+['NN', 'CC', 'VBD', 'RP', 'IN', 'WP', 'VBD']
+['DT', 'NNS', 'VBN', 'RP', 'IN', 'NNP', 'NNP']
+['PRP', 'VBZ', 'VBG', 'RP', 'IN', 'IN', 'NNP']
+['PRP', 'WP', 'VBP', 'RP', 'PRP$', 'NN', 'IN']
+['NNS', 'WDT', 'VBD', 'RP', 'DT', 'JJ', 'NNP']
+['PRP$', 'NN', 'VBZ', 'RP', 'DT', 'NNS', 'NNS']
+['PRP', 'VBZ', 'VBG', 'RP', 'IN', 'PRP', 'UH']
+['IN', 'NNP', 'VBD', 'RP', 'DT', 'NNS', 'IN']
+['NNP', 'VBZ', 'VBG', 'RP', 'IN', 'NN', 'IN']
+['RB', 'VBZ', 'PRP', 'RP', 'RB', 'IN', 'PRP']
+
+
+Cluster 4 - 1829 sentences (Words):
+['and', 'stood', 'up', 'for', 'what', 'was', 'right,']
+['ideas', 'laid', 'out', 'by', 'President', 'Clinton', 'for']
+['It', 'is', 'coming', 'down', 'out', 'of', 'heaven']
+['you', 'who', 'give', 'up', 'your', 'life', 'for']
+['issues', 'that', 'set', 'off', 'the', 'wealthy', 'Hollywood']
+['Your', 'article', 'points', 'out', 'the', 'traps', 'people']
+["he's", 'looking', 'forward', 'to', 'it', 'UH', 'UH']
+['with', 'Nebuzaradan', 'pulled', 'down', 'the', 'walls', 'around']
+['stepping', 'down', 'as', 'head', 'of', 'her', 'media']
+['of', 'ties', 'us', 'up', 'here', 'although', 'we']
+
+
+Cluster 5 - 2197 sentences (Tags):
+['NNP', 'NN', 'VBN', 'RP', 'IN', 'DT', 'NNP']
+[',', 'VBG', 'PRP', 'RP', 'IN', 'DT', 'DT']
+['RB', 'IN', 'VBG', 'RP', 'PRP$', 'NN', ',']
+['NNP', 'VBZ', 'VBG', 'RP', 'IN', 'JJ', 'NN']
+['IN', 'PRP', 'VBP', 'RP', '.', 'UH', '.']
+['VBP', 'RB', 'VBN', 'RP', 'JJ', 'NN', '.']
+['CD', 'NNS', 'VBG', 'RP', 'IN', 'DT', 'NN']
+['NN', 'WP', 'VBD', 'RP', 'PRP$', 'NNS', 'VBG']
+['PRP', 'VBD', 'RP', 'DT', 'NN', 'CC', 'UH']
+['RB', 'IN', 'VBG', 'RP', 'DT', 'NN', 'IN']
+
+
+Cluster 5 - 2197 sentences (Words):
+['put', 'forth', 'at', 'this', 'Customs', 'Directors', 'Conference.']
+['sealing', 'it', 'off', 'from', 'the', 'the', 'rest']
+['Apart', 'from', 'keeping', 'up', 'their', 'guard,', 'it']
+['is', 'bringing', 'out', 'in', 'soft', 'cover', 'this']
+['you', 'come', 'over.', 'yeah.', 'You', 'know', '?']
+['actually', 'stirred', 'up', 'further', 'controversy.', 'UH', 'UH']
+['million', 'viewers', 'tuning', 'in', 'to', 'this', 'evening']
+['man', 'who', 'wore', 'out', 'his', 'shoes', 'wandering']
+['He', 'broke', 'off', 'a', 'piece', 'and', 'UH']
+['then', 'in', 'putting', 'forward', 'the', 'proposition', 'that']
+
+
+Cluster 6 - 1100 sentences (Tags):
+['MD', 'RB', 'VB', 'RP', 'VB', 'DT', 'VBZ']
+['CC', 'VBP', 'VBN', 'RP', 'TO', 'VB', 'PRP']
+['NN', 'TO', 'VB', 'RP', 'NNP', 'NNP', 'IN']
+['PRP', 'MD', 'VB', 'RP', 'IN', 'PRP', 'VBP']
+['MD', 'VB', 'VB', 'RP', 'RB', 'IN', 'DT']
+['VB', 'RP', 'RP', 'RB', 'IN', 'PRP', 'UH']
+['VBG', 'TO', 'VB', 'RP', 'RB', '.', 'UH']
+['VB', 'TO', 'VB', 'RP', ',', 'RB', 'VB']
+['VBD', 'NNP', 'VB', 'RP', 'PRP$', 'NNS', 'CC']
+['MD', 'VB', 'PRP', 'RP', 'IN', 'PRP$', 'NNS']
+
+
+Cluster 6 - 1100 sentences (Words):
+['would', 'simply', 'take', 'over', 'say', 'this', 'is']
+['and', 'have', 'come', 'down', 'to', 'save', 'them.']
+['order', 'to', 'swear', 'in', 'Vojislav', 'Kostunica', 'as']
+['It', 'may', 'turn', 'out', 'that', 'we', 'need']
+['be', 'build', 'up', 'preliminarily', 'within', 'the', 'nation,']
+['Go', 'on', 'up', 'ahead', 'of', 'me', 'UH']
+['going', 'to', 'go', 'off', 'here?', 'UH', 'UH']
+['cool', 'down,', 'not', 'heat', 'up,', 'before', 'it']
+['helped', 'Qingqing', 'put', 'on', 'his', 'gloves', 'and']
+['would', 'hand', 'him', 'over', 'to', 'his', 'enemies.']

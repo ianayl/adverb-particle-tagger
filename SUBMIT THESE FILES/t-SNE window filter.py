@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 
+#Author: Darwin L.
+
 
 # Load the JSON file
 with open('CleanedDataRPnoSyntax.json', 'r') as file:
