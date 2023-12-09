@@ -119,6 +119,7 @@ plt.title('t-SNE Visualization of Clusters')
 plt.xlabel('t-SNE Component 1')
 plt.ylabel('t-SNE Component 2')
 plt.colorbar(label='Cluster')
+plt.savefig("darwin.png")
 plt.show()    
 
 # # Reduce the dimensionality using PCA
